@@ -9,7 +9,7 @@
 ## **Contacts**
 
 - **Telephone number**: +375291372265
-- **GitHub**: [Lukjan06]()
+- **GitHub**: [Lukjan06](https://github.com/Lukjan06)
 - **Discord**: Lukjan#0786(@Lukjan060)
 - **E-mail**: elka-mogilev@mail.ru
 
@@ -45,7 +45,7 @@ function multiply(a, b){
 
 ## **Experience**
 
-Some little project from r_d school course
+Some little project from r_d school course [My project](https://github.com/Lukjan06/HomeWork3)
 
 ---
 
