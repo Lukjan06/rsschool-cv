@@ -25,9 +25,9 @@ Now I'm learning on RS-School and I suppose that'll give me a chance to start my
 
 ## **My skils**
 
--
--
--
+- HTML (Basic)
+- CSS (Basic)
+- Git (Basic)
 
 ---
 
@@ -45,6 +45,8 @@ function multiply(a, b){
 
 ## **Experience**
 
+Some little project from r_d school course
+
 ---
 
 ## **Education and Courses**
@@ -59,5 +61,5 @@ function multiply(a, b){
 
 ## **Languages**
 
--
--
+- English: according to the Common European Framework of Reference (CEFR), my level is between B1 Intermediate and B2 Upper Intermediate.
+- Russian: native speaker.
